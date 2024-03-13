@@ -1,0 +1,64 @@
+Position Specific Scoring Matrix (PSSM) for motif finding
+_________________________________________________
+Backgournd statistics:
+The Background file is ecoK12-MG1655.fasta
+The Motifs file is FruR.txt
+The length of the background file is 4641652
+In the Background file there are 0 other characters
+In the Background file there are:
+1142742	Adenine	(0.246193%)
+1180091	Cytosine(0.254239%)
+1177437	Guanine	(0.253668%)
+1141382	Thymine	(0.245900%)
+
+_________________________________________________
+
+Motif Statistics:
+There are 12 motifs
+Each motif is 16 base pairs long
+Motif #0 is: CGTTAAGCGATTCAGC
+Motif #1 is: ACTGAAACGTTTTTGC
+Motif #2 is: CTTGAAACGTTTCAGC
+Motif #3 is: GCTGAATCGTTTCAAT
+Motif #4 is: GCTGAATCGCTTAACC
+Motif #5 is: ACTGAAACGCTTCAGC
+Motif #6 is: ACTGAATCGGTTAACT
+Motif #7 is: GGTGAATCGATACTTT
+Motif #8 is: GCTGAATTGATTCAGG
+Motif #9 is: GGTGAATCGTTCAAGC
+Motif #10 is: GCTGAATCGATTTTAT
+Motif #11 is: GCTGAAACCATTCAAG
+
+_________________________________________________
+Nucleotides at Each Position
+Base#
+  1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	
+A 0.250	0.019	0.019	0.019	0.942	0.942	0.327	0.019	0.019	0.404	0.019	0.096	0.250	0.712	0.250	0.019	
+C 0.173	0.635	0.019	0.019	0.019	0.019	0.019	0.865	0.096	0.173	0.019	0.096	0.558	0.019	0.173	0.481	
+G 0.558	0.250	0.019	0.865	0.019	0.019	0.096	0.019	0.865	0.096	0.019	0.019	0.019	0.019	0.481	0.173	
+T 0.019	0.096	0.942	0.096	0.019	0.019	0.558	0.096	0.019	0.327	0.942	0.788	0.173	0.250	0.096	0.327	
+
+The minimum score provided for a motif is: 18 
+_________________________________________________
+Fordward Strand Motifs
+
+Forward Strand Score #1: 19.738518		Motif Start is 1194877	Motif End is 1194892	GCTGAATCGCTTAACC
+Forward Strand Score #2: 19.936216		Motif Start is 1936801	Motif End is 1936816	GGTGAATCGTTTCTGT
+Forward Strand Score #3: 19.034655		Motif Start is 2263515	Motif End is 2263530	ATTGAAACGATTCAGC
+Forward Strand Score #4: 20.149310		Motif Start is 2263582	Motif End is 2263597	GCTGAAACGTTTCAAG
+Forward Strand Score #5: 19.039853		Motif Start is 2533545	Motif End is 2533560	GCTGAATCGATTTTAT
+Forward Strand Score #6: 20.440213		Motif Start is 3073813	Motif End is 3073828	ACTGAAACGCTTCAGC
+Forward Strand Score #7: 18.393024		Motif Start is 4234751	Motif End is 4234766	ACTGAAGCGATTCTGC
+_________________________________________________
+Reverse Strand motifs
+
+Reverse Strand Score #1: 19.308067		Motif Start is 331872	Motif End is 331887	TTAGTAAGTATTTTTC
+Reverse Strand Score #2: 18.258632		Motif Start is 1934702	Motif End is 1934717	TTAGTAAGTATTTTTC
+Reverse Strand Score #3: 21.883952		Motif Start is 2263515	Motif End is 2263530	TTAGTAAGTATTTTTC
+Reverse Strand Score #4: 18.154605		Motif Start is 2263582	Motif End is 2263597	TTAGTAAGTATTTTTC
+Reverse Strand Score #5: 18.166634		Motif Start is 2509545	Motif End is 2509560	TTAGTAAGTATTTTTC
+Reverse Strand Score #6: 18.484322		Motif Start is 3067197	Motif End is 3067212	TTAGTAAGTATTTTTC
+Reverse Strand Score #7: 20.203297		Motif Start is 3073813	Motif End is 3073828	TTAGTAAGTATTTTTC
+Reverse Strand Score #8: 18.038604		Motif Start is 3785196	Motif End is 3785211	TTAGTAAGTATTTTTC
+Reverse Strand Score #9: 19.003140		Motif Start is 4107431	Motif End is 4107446	TTAGTAAGTATTTTTC
+Reverse Strand Score #10: 18.267836		Motif Start is 4215228	Motif End is 4215243	TTAGTAAGTATTTTTC

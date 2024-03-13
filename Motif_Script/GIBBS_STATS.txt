@@ -1,0 +1,51 @@
+These are the Gibbs Sampler File Statistics
+There are 16 motifs
+There are a total of 100 for the initial nucleotide segments
+The initial length is 15
+
+Background frequencies of motifs
+		A	C	G	T
+Motif #0	0.19	0.29	0.18	0.34	
+Motif #1	0.45	0.17	0.16	0.22	
+Motif #2	0.35	0.16	0.15	0.34	
+Motif #3	0.4	0.15	0.16	0.29	
+Motif #4	0.28	0.21	0.23	0.28	
+Motif #5	0.32	0.23	0.2	0.25	
+Motif #6	0.33	0.15	0.29	0.23	
+Motif #7	0.23	0.19	0.25	0.33	
+Motif #8	0.32	0.19	0.27	0.22	
+Motif #9	0.29	0.25	0.2	0.26	
+Motif #10	0.29	0.19	0.25	0.27	
+Motif #11	0.45	0.14	0.15	0.26	
+Motif #12	0.36	0.23	0.15	0.26	
+Motif #13	0.33	0.21	0.14	0.32	
+Motif #14	0.28	0.22	0.22	0.28	
+Motif #15	0.34	0.17	0.25	0.24	
+
+The Final Score of the Aligned Motifs is 287.788
+
+Sequences and Locations
+The best motif length is 18
+Motif  1 start 32	end 49	sequence	CTGGCACACCGCTTGCAA
+Motif  2 start 33	end 50	sequence	TTGGCACGCAAATTGTAT
+Motif  3 start 43	end 60	sequence	ATGGCATCCTTTATGCAA
+Motif  4 start 37	end 54	sequence	CTGGCACGCAATCTGCAA
+Motif  5 start 54	end 71	sequence	CTGGCACAATTATTGCTT
+Motif  6 start 4	end 21	sequence	CTGGCACTACTTTTGCTT
+Motif  7 start 53	end 70	sequence	ATGGCATGATTTCTGCTG
+Motif  8 start 49	end 66	sequence	TTGGCATGATTCTTGTAA
+Motif  9 start 33	end 50	sequence	GTGGCATAAAAGATGCAT
+Motif  10 start 49	end 66	sequence	TTGGCACGGAAGATGCAA
+Motif  11 start 44	end 61	sequence	CTGGCACAGTTGTTGCTA
+Motif  12 start 46	end 63	sequence	CTGGCACGACGGTTGCAA
+Motif  13 start 73	end 90	sequence	TTGGCACAGTTACTGCAT
+Motif  14 start 12	end 29	sequence	CTGGCACGAACCCTGCAA
+Motif  15 start 40	end 57	sequence	ATGGCATGAGATCTGCAT
+Motif  16 start 30	end 47	sequence	CTGGCACGATTTTTTCAT
+
+Nucleotides at Each Position
+Base
+A 0.1710.0130.0130.0130.0130.8550.0130.2760.4870.2760.2760.1710.1710.0130.0130.0130.6450.434
+C 0.4340.0130.0130.0130.8550.0130.5920.0660.2240.1710.0660.1710.2760.0130.0130.7500.0130.013
+G 0.0660.0130.8550.8550.0130.0130.0130.4870.1710.0660.1180.2240.0130.0130.8030.0130.0130.066
+T 0.2240.8550.0130.0130.0130.0130.2760.0660.0130.3820.4340.3290.4340.8550.0660.1180.2240.382
